@@ -1,0 +1,10 @@
+title: Research
+theme: minima
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Keep illustration working files (outline, prompts) out of the rendered
+# site and its nav; the images are static files and still get copied.
+exclude:
+  - "assets/illustrations/*/outline.md"
+  - "assets/illustrations/*/prompts"
