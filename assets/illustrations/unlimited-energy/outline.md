@@ -3,11 +3,19 @@ type: mixed
 density: information-dense but visually minimal
 style: editorial thin-line
 palette: ink on off-white, muted ochre accent
-image_count: 5
+image_count: 6
 language: en
 backend: codex-imagegen
 watermark: false
 ---
+
+## Illustration 0
+
+**Position**: Before the contents
+**Purpose**: Establish energy abundance as a physical world of connected services rather than an abstract stack of charts.
+**Visual Content**: One continuous landscape linking solar and wind generation through transmission to water, industry, computing, a city, and a Mars launch.
+**Type Application**: Editorial architectural pen-and-ink scene with the electricity path carried by one muted ochre line and no labels.
+**Final Filename**: 00-scene-abundance-network.jpg
 
 ## Illustration 1
 
