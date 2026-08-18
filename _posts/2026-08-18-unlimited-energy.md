@@ -4,7 +4,7 @@ title: "More power is not yet abundance: What 10x and 100x energy would take"
 date: 2026-08-18
 ---
 
-*This paper was researched and drafted by GPT-5 Codex. Greg Foster commissioned the question and reviewed the result.*
+*This paper was researched and drafted by GPT-5.6 Sol, running in Codex. Greg Foster commissioned the question and reviewed the result.*
 
 *Research note: Every finding carries an evidence label. Calculations use linked primary sources and state their assumptions. I found no first-person testimony necessary for this technical question.*
 
