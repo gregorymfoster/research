@@ -1,22 +1,23 @@
 ---
 illustration_id: 04
 type: framework
-style: scientific
+style: research-site-editorial-thin-line
 aspect_ratio: "16:9"
 final_filename: 04-framework-validation-laboratory.jpg
 ---
 
 Use case: infographic-diagram
-Asset type: editorial business-system diagram inside a research essay
-Primary request: Create a clean scientific operating model titled exactly "A VALIDATION LABORATORY" showing how a domain-specific laboratory turns candidates into evidence suitable for licensing or development decisions.
-Scene/backdrop: Off-white flat background.
-Subject: A left-to-right system with two input sources, one central laboratory, and two customer decisions. A data reservoir below the laboratory feeds back into future tests.
+Asset type: quiet editorial operating-model figure inside a serious research essay
+Input images: Image 1 and Image 2 are style references from this publication. Match their warm paper, thin imperfect ink, small hand lettering, sparse ochre accent, and generous negative space. Do not copy their subject matter.
+Primary request: Show how a domain-specific laboratory turns candidates into evidence suitable for licensing or development decisions.
+Scene/backdrop: Warm off-white paper with faint natural grain.
+Subject: A sparse left-to-right system made from hand-lettered labels, thin arrows, and simple outline containers. No title and no icons.
 
 LAYOUT:
-- LEFT INPUTS: two separate source cards feeding the center.
-- CENTER: one large laboratory boundary containing three stacked modules.
-- RIGHT OUTPUT: one evidence card that splits into two decision cards.
-- BOTTOM: one data reservoir connected back to the central laboratory with a feedback arrow.
+- LEFT INPUTS: two compact labels, HUMAN TEAMS and AI TEAMS, each with one thin arrow feeding the center. Use no source cards.
+- CENTER: one large hand-drawn rounded rectangle titled VALIDATION LAB. Inside, stack the three capabilities as plain hand-lettered lines separated by hairline rules.
+- RIGHT OUTPUT: one outlined AUDITABLE EVIDENCE container that branches through thin arrows to the plain labels LICENSING and DEVELOPMENT.
+- BOTTOM: one long shallow outline labeled POSITIVE + NEGATIVE RESULTS. Connect the lab down to it and return a dashed feedback arrow to the lab.
 
 ZONES AND LABELS, render verbatim:
 - Left card one: "HUMAN TEAMS"
@@ -37,25 +38,18 @@ RELATIONSHIPS:
 - POSITIVE + NEGATIVE RESULTS receives data from the lab and sends a feedback arrow back to future tests.
 
 COLORS:
-- Off-white background #FAFAFA.
-- Dark slate text and connectors #1E293B.
-- Human input teal #0D9488.
-- AI input blue #3B82F6.
-- Laboratory modules purple #8B5CF6 and amber #F59E0B.
-- Evidence and decision outputs green #22C55E.
-- Data reservoir light blue-gray #F0F4F8 with dark slate outline.
+- Warm off-white paper #F5F1E8.
+- Dark ink gray #252525 for all lettering, containers, rules, and arrows.
+- Muted ochre #B89442 only for one thin underline beneath AUDITABLE EVIDENCE; keep accent color under 5 percent of the canvas.
 Color values and color names are rendering guidance only. Do not display color names, hex codes, or palette labels.
 
 STYLE:
-- Academic scientific system diagram with precise line work, modular components, and directional arrows.
-- Flat textbook-quality icons: scientist silhouette, circuit node, assay plate, clipboard, data stack, contract, and product handoff.
-- Human figures, if any, must be simplified symbolic silhouettes, not photorealistic.
-- Large readable sans-serif typography, generous white space, no decorative flourishes.
-- Clean composition with generous margins. Simple background. Main elements centered.
+- Match the supplied publication references: quiet editorial thin-line drawing, slight human wobble, small clean hand-lettered capitals, flat paper, and generous negative space.
+- Make the visual hierarchy come from placement and line weight rather than color or pictograms.
 
 CONSTRAINTS:
 - Render every quoted label exactly once, with no extra words.
 - Spell PROVENANCE exactly P-R-O-V-E-N-A-N-C-E.
 - Keep the feedback arrow visually distinct from the forward evidence flow.
-- No logos, trademarks, watermark, gradients, decoration, or tiny text.
+- No on-image title, icons, human silhouettes, multicolor palette, modular UI cards, badges, gradients, shadows, sans-serif display type, logos, trademarks, watermark, decoration, or photorealism.
 - Landscape 16:9.
