@@ -11,8 +11,8 @@ aspect: 16:9
 ## Illustration 1
 
 **Position**: After the opening section's description of an empty Tuesday.
-**Purpose**: Make the emotional stakes tangible without turning the requester's life into a case study.
-**Visual Content**: A conventionally successful but unmoored adult alone in a beautiful, quiet apartment on a weekday morning, surrounded by abundant space and no obvious crisis.
+**Purpose**: Make the emotional stakes tangible without implying a specific biography.
+**Visual Content**: An adult between chapters at a plain table in a quiet, non-specific room on a weekday morning, surrounded by unallocated space and no obvious crisis.
 **Type Application**: Establishing editorial scene with no text and very large negative space.
 **Filename**: 01-scene-empty-tuesday.jpg
 
